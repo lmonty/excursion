@@ -1,8 +1,19 @@
+<<<<<<< HEAD
+=======
+h1 {
+  font-size:50px;
+  color:white;
+}
+>>>>>>> origin/master
 body {
   background-color: black;
   text-align: center;
+<<<<<<< HEAD
   font-family: "Verdana", sans-serif;
   color: white;
+=======
+  font-weight:normal;
+>>>>>>> origin/master
 }
 
 .cta {
